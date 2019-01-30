@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 
 gem 'github_api'
 gem 'rake'
-gem 'rest-client'
+gem 'rest-client', '~> 2.1.0.rc1'
 gem 'timezone'
 
 group :development do

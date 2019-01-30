@@ -1,0 +1,56 @@
+{
+  "Agagnier35/simplAuto-frontend": {
+    "room": "#devteam",
+    "reviewers": [
+      {
+        "github": "Agagnier35",
+        "slack": "Félix Agagnier",
+        "timezone": "America/New_York"
+      },
+      {
+        "github": "alxclark",
+        "slack": "aclark",
+        "timezone": "America/New_York"
+      },
+      {
+        "github": "williooam",
+        "slack": "William Chartier",
+        "timezone": "America/New_York"
+      },
+      {
+        "github": "Guidemarcus",
+        "slack": "Marcus",
+        "timezone": "America/New_York"
+      }
+    ],
+    "hours_to_review": 0,
+    "work_days": [0, 1, 2, 3, 4, 5, 6]
+  },
+  "Agagnier35/simplAuto-Backend": {
+    "room": "#devteam",
+    "reviewers": [
+      {
+        "github": "Agagnier35",
+        "slack": "Félix Agagnier",
+        "timezone": "America/New_York"
+      },
+      {
+        "github": "alxclark",
+        "slack": "aclark",
+        "timezone": "America/New_York"
+      },
+      {
+        "github": "williooam",
+        "slack": "William Chartier",
+        "timezone": "America/New_York"
+      },
+      {
+        "github": "Guidemarcus",
+        "slack": "Marcus",
+        "timezone": "America/New_York"
+      }
+    ],
+    "hours_to_review": 0,
+    "work_days": [0, 1, 2, 3, 4, 5, 6]
+  }
+}
