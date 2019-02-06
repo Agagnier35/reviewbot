@@ -39,6 +39,7 @@ task :remind, [:mode] do |_t, args|
         'https://slack.com/api/chat.postMessage',
         token: SLACK_TOKEN,
         channel: room,
+		link_names: true,
         text: message,
         icon_emoji: SLACK_BOT_ICON,
         username: SLACK_BOT_NAME
